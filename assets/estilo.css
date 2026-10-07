@@ -275,3 +275,19 @@ p{ color:var(--gris) }
   .galeria figure:last-child{ grid-column:auto }
   .galeria figcaption{ font-size:.64rem; letter-spacing:.1em; padding:22px 12px 12px }
 }
+
+/* --- Ampliación de servicios (07-11): grupos y cajas más premium --- */
+.grupo{
+  font-family:var(--disp); font-size:.78rem; letter-spacing:.26em; text-transform:uppercase;
+  color:var(--gris); margin:48px 0 0; padding-bottom:12px; border-bottom:1px solid var(--linea-v)
+}
+.grupo + .serv-grid{ margin-top:20px }
+.serv{ position:relative; transition:background .4s ease }
+.serv b{ color:var(--gris); transition:color .4s ease }
+.serv:hover{ background:#fff }
+.serv:hover b{ color:var(--tinta) }
+/* La nota cierra el segundo grupo en media caja (5 servicios + nota = 3 filas exactas) */
+.serv.nota-una{ grid-column:span 1 }
+@media (max-width:980px){
+  .grupo{ margin-top:34px }
+}
