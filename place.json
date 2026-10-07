@@ -1,0 +1,345 @@
+{
+  "id": "ChIJkagu5AXzQQ0Rm6td_CSdPCo",
+  "types": [
+    "nail_salon",
+    "beauty_salon",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+34 679 15 44 90",
+  "formattedAddress": "Av. Acacias, 1, 28978 Cubas de la Sagra, Madrid, Spain",
+  "rating": 5,
+  "googleMapsUri": "https://maps.google.com/?cid=3043480230373993371&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+  "regularOpeningHours": {
+    "openNow": true,
+    "periods": [
+      {
+        "open": {
+          "day": 1,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 1,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 2,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 2,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 3,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 3,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 4,
+          "hour": 20,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 9,
+          "minute": 0
+        },
+        "close": {
+          "day": 5,
+          "hour": 20,
+          "minute": 0
+        }
+      }
+    ],
+    "weekdayDescriptions": [
+      "Monday: 9:00 AM – 8:00 PM",
+      "Tuesday: 9:00 AM – 8:00 PM",
+      "Wednesday: 9:00 AM – 8:00 PM",
+      "Thursday: 9:00 AM – 8:00 PM",
+      "Friday: 9:00 AM – 8:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "nextCloseTime": "2026-10-07T18:00:00Z"
+  },
+  "businessStatus": "OPERATIONAL",
+  "userRatingCount": 43,
+  "displayName": {
+    "text": "Lola Martínez Beauty Saloon",
+    "languageCode": "es"
+  },
+  "shortFormattedAddress": "Av. Acacias, 1, Cubas de la Sagra",
+  "reviews": [
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wQldXdFdYMDR0ZG1sblMwdE1VbFZyUWxvNFpHYxAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 5,
+      "text": {
+        "text": "Lola is a true professional, she works like no other: attentive, a perfectionist, punctual, and provides exceptional service… and now with Aitana's arrival, they're the best team. The salon is beautiful, with easy parking, and it's convenient and welcoming. The manicure lasts up to a month without damage; they use products that don't harm the nail bed. 100% recommended.",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Lola es una gran profesional, trabaja como ninguna: atenta, perfeccionista, puntual, trato excepcional…  y ahora con la llegada de Aitana son el mejor equipo. Local precioso, fácil aparcamiento, cercano y acogedor. El servicio de uñas dura hasta el mes siguiente sin dañarse, trabajan con productos que no dañan el lecho ungueal de las uñas.Recomendación 100%.",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Nazaret Sanchez Garcia",
+        "uri": "https://www.google.com/maps/contrib/108630890191276570267/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKOufej8Q-i0FEH2mHk-6VHUG_y7Ib6AYcb1Ioo-RCl0WPdQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-08-10T20:11:26.504097084Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wQldXdFdYMDR0ZG1sblMwdE1VbFZyUWxvNFpHYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wQldXdFdYMDR0ZG1sblMwdE1VbFZyUWxvNFpHYxAB!2m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prMlJEUnNiMGMxZUdJMFpGRXliM0JrVjI1NmNHYxAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 5,
+      "text": {
+        "text": "I've been going to Loli for several years now. Since she taught me the importance of nail health, I haven't gone anywhere else! She's amazing, I recommend her 100%. I also want to mention Aitana for the excellent eyebrow lamination she did for me. Without a doubt, the best!",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Llevo varios años ya con Loli. Desde que me enseñó la importancia de la salud de las uñas no he vuelto a ir a otro sitio! Es una máquina, la recomiendo al 100%. También hacer mención a Aitana por el excelente laminado de cejas que me ha hecho. Sin duda, las mejores!!!!!!",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Marina Oliver",
+        "uri": "https://www.google.com/maps/contrib/110832186610420515910/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQ6hz-du5HWxM_xmeepsoWri61a9WAZ6TsYi3A7RFXAisk2h8v=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-09-04T15:56:08.067840354Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prMlJEUnNiMGMxZUdJMFpGRXliM0JrVjI1NmNHYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prMlJEUnNiMGMxZUdJMFpGRXliM0JrVjI1NmNHYxAB!2m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWWREUkJablJIU2taSVZXVkZTbkpCU2xwTlJtYxAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 5,
+      "text": {
+        "text": "This is the first time I've had my nails done by Lola, and I couldn't be happier. I arrived with practically no nails because I bite them, and I left with completely different hands—super natural!\nI'm thrilled!",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Es la primera vez que me hago las uñas con Lola y no puedo estar más contenta, llegué casi sin uña porque me las muerdo y salí viéndome unas manos totalmente diferentes, súper naturales.\nEstoy encantadisima !",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Laura JM",
+        "uri": "https://www.google.com/maps/contrib/112112612034576889377/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ4_kq99xLsqpsRGGZImswxngsEgaG1mVOA2y7JBUGlMuPVsQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-08-11T15:41:05.170274429Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKWWREUkJablJIU2taSVZXVkZTbkpCU2xwTlJtYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWWREUkJablJIU2taSVZXVkZTbkpCU2xwTlJtYxAB!2m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kc2MzaFNlRzgzY1hCd1dWRnVTWFZDZVdab04xRRAB",
+      "relativePublishTimeDescription": "2 months ago",
+      "rating": 5,
+      "text": {
+        "text": "I love how Lola works. I've known her for over 10 years and I get my nails done by her, and I can say she's a true professional. Her designs are original and always on trend.",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Me encanta como trabaja Lola.\nHace más de 10 años que la conozco y me hago las uñas con ella y puedo decir que es una gran profesional. Sus diseños son originales y siempre a la última.",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "m carmen",
+        "uri": "https://www.google.com/maps/contrib/101708889950242847903/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLyk6tw1A6q-n5g7YFOC_JtwkPWNvDnIwZI6jYPNkEbSM8wtQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-08-07T19:28:46.384624388Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kc2MzaFNlRzgzY1hCd1dWRnVTWFZDZVdab04xRRAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kc2MzaFNlRzgzY1hCd1dWRnVTWFZDZVdab04xRRAB!2m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Cc2FFbHdRazFyYTNKVE5HczNSa2czVnpkeVozYxAB",
+      "relativePublishTimeDescription": "a month ago",
+      "rating": 5,
+      "text": {
+        "text": "Excellent professional. I've been going to her for over 5 years and my nails are in perfect condition. 100% recommended.",
+        "languageCode": "en-US"
+      },
+      "originalText": {
+        "text": "Excelente profesional. Llevo más de 5 años con ella y mis uñas están en perfecto estado. Recomendable 100%",
+        "languageCode": "es"
+      },
+      "authorAttribution": {
+        "displayName": "Nuria Garcia",
+        "uri": "https://www.google.com/maps/contrib/111142847354640012660/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYN8FoQo-SWvvC2uX4TCC7ucHBWTo931C-E7XVZ2psgE-UV1IEJA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-08-19T07:12:27.094040457Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Cc2FFbHdRazFyYTNKVE5HczNSa2czVnpkeVozYxAB&d=17924085&t=1&wv=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Cc2FFbHdRazFyYTNKVE5HczNSa2czVnpkeVozYxAB!2m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    }
+  ],
+  "photos": [
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMZnpxVnVX_yGIP04qmcGIa0l3r-rZteOAcodGBlbyMcyCpSfq6e4T0Uwp8lclDs1JDkd_wShB1fNRuKt2gXAqJg7IjZEvyKmAztvoQHm4Wvu6zbBu2OK3PRcs5i7qx3vMKGE4eMa-_kRm8K36jaCN3BC9DICCnBhEEfVkVfwbm6NO28Vl8w8JJy7wr1tNQWN94DqaBJoKimHHG6dTMw3kxvjMsha6muCoaLlSPYdMQ1FqP8YdniCpCqO1CtYB7xLysbpv71gFtpdwHvVnSG659xCniiT1kbH8Pib7Zmlepx_qjq7TMYrCAmVxeR1PL75SJ64KABZV64M4VLJvS1Q3wb02sF-x6hwbt5fziBTeIQXT_-1ceYQ_sPGdBfDohFXg2-3twmaVRW1mY6ocV-hxKTN5-m4TbaoA6XVlYXcF5EeA",
+      "widthPx": 3969,
+      "heightPx": 3316,
+      "authorAttributions": [
+        {
+          "displayName": "Lola Martínez Beauty Saloon",
+          "uri": "https://maps.google.com/maps/contrib/110526352111369300842",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJFYtSbkPBSwHq28Pr_lJXQRaaA_RliKXgidk6rsF-Qmk_B=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBWInbobpK-Q6X3XvgdY8LM&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBWInbobpK-Q6X3XvgdY8LM!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMYdGo7JDqAwmqL6ASjWlmJDZr8mQmjx-Pn4Cl4QtkNzU9dwnrpA9MY4PUs8JpP0T8UVlvKvkrXydne94DzXB7zG5zIVqUYabT-Fp6UAEdshxQJgoHFz6_e6Ycht8sMfzTszfk3mvZsZmwd0P4qSDI671UP1syGa7CtjB3FD_flx9ifoYlf2-yFktU8lt9196MLmBUXZpCgv6SJq4Oud0w-YgXPyjfQws70Yr7JTGbxC1TyokF7y1Yan39Qfm9PJm6uItl9EmJ-XUvXPA4s7FKXdUk0e7_lPGYmtHZUmgr8GOQXQwGsdE2ZhFbXFZBk-9sbclWemC9cZSoTkSGvLGMunpYim6DiSeL5Obk9FfcfGKAtiA_TG6PXVd1SuPlHQQqcan4gQNElW7C73s7hK4SOtEDqOHyCuzb7HjhHBQSw5Ow",
+      "widthPx": 736,
+      "heightPx": 981,
+      "authorAttributions": [
+        {
+          "displayName": "sara pulgar",
+          "uri": "https://maps.google.com/maps/contrib/101841173007155450290",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZPgzFOd1rkG8SVqhBxoTQyKEA6yYqVjk17AuuqXfJHF9bVxqk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhDK8JzsW0fgSQ4lF72NdQm1&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhDK8JzsW0fgSQ4lF72NdQm1!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMYW3yarzJ1HlQ-n58eUk2C-0wF6T_Qd1JEGY5jZSbxTx_8Ppw6I0l0BeHdohh-dq5vq6ikUFDTG1L0ndHVD4N8sH7RmSjQI-iKvhpv24sgjrlObde1QrJ-pFjnKgFKHLOFPQAFuBuzoRG1t9sswnUWXsLj6NuSJ0STonpWo2SMZkU5cX5TdbT08PnJzrO_5F3BZY1cN0iyLC56k_QvRgPxyIZTekyC6kaET9T60jk8gurbvIWaVohDvEzohr5b-VFt9nuIBgmPl8WxR3tUOHQ4L2AHu4IKki1U0ArqkMDMoMqqKEJJltPUdZPPY6fEmpZcpaD0DaNDLdxUgKCF5t15C4yM8_cb-RWwwgRxXPcRYB3j6wJnNTJDcLpY_E4XP0D5Q4DKtwRcK1qqutWsqq3p0iPfbvrFE-e4cYGYbOcgDEQ",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Desirée López Mateo",
+          "uri": "https://maps.google.com/maps/contrib/107134673151288282475",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNvuO1iex5CEfTz-TodyRKXUT7oxnUm_1bPevWTrPmRCjgsw=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCE4hoLYkwfuRRowVrtRp_V&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCE4hoLYkwfuRRowVrtRp_V!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMZ3ENb3MQcqXZxotf7a5i5YP1QnvbJ8zXxag2VCwUsGLsXrRYAmdMPq-3BvM5MRxBVml2ODzjVIZZ4tqrCQIf98rXF3aHLbbTg8EPDk4tyTujniqIveuckJTcsUh_UcP8TFOlqN5CaCjAycgok3fcNSypv3g2jCEthuQENXumC9Ri0YagclcLP0zC0UQj_s6uw3BNDkBU1AmrZcn-AK-MFkeT2z-65SDloIh730LFAuG3XrGA2GHQOLzvhgXz0WSil9ynT-KURECQYHnsCZxgOwRyIAG1AlllPRQ_ODCEd-QiVL93wx4s13wFuAdlz530M8sSlILRDybkO18yYabb8XZwLRSswz2E5RtcLGnb4BWA3oYVUJh_yKyBp5El9Ab8IvhHnR9FpdbAAVCwElnCQIEzKXxwgvM_oT_7hERPHk",
+      "widthPx": 3969,
+      "heightPx": 3316,
+      "authorAttributions": [
+        {
+          "displayName": "Lola Martínez Beauty Saloon",
+          "uri": "https://maps.google.com/maps/contrib/110526352111369300842",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJFYtSbkPBSwHq28Pr_lJXQRaaA_RliKXgidk6rsF-Qmk_B=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhC_nSrMntVTxgSrJewufDQv&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhC_nSrMntVTxgSrJewufDQv!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMYvQQK22AK2_Ptvwwbxt9DXWfb_wo39TBSO0bsx0eljSog3OHd0WR6ZAjTp2AMIx4boQshrNN6eDONBI9JGDgvd2JpjfUjkJLI3nsrBgsDGPDVvbXvYdYoNLfGOYePE2vON84dqDohu3Kl_hPFB2i0zec6a0itg-MRJk6QrZXlcWlZJ0w3dgHF6_9qyk0i4lumuFGG99PIviRzCiWhOtIEYMRyvV3zSODaef2nAkvyXCSE6pkWS-O0PpCcmF33BhzqwMJGDszcRS0rdXOZvuf7NUic1rIKczbvLEIvAcpnRehbVGORnATBdg_tAY11br0TZVRS5ORZEMR6JdaBc2vyhqwt73UvCCKf_Q1rL-xcvcQN9ZjMB1M7XwvSqT8Ue4h2NvFyVY2pa1Ke1dgiqnm9Div-4yhmi71nN_Z4zjAoz",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "authorAttributions": [
+        {
+          "displayName": "Laura JM",
+          "uri": "https://maps.google.com/maps/contrib/112112612034576889377",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ4_kq99xLsqpsRGGZImswxngsEgaG1mVOA2y7JBUGlMuPVsQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBq6uOwO4f5fl4RZV2jVE9Q&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBq6uOwO4f5fl4RZV2jVE9Q!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMY0XJm7MWiZkyjIywMnO5ILDmV8mRAOoq6iclMdU4-w9LgnSALXgjE8gAbnBcCv3P8tuo7yb5Ba4DpF2cMPrvtrEh9QGxq_SMn1pv09AfTWBVQHTQYM4WF2NxYw2yE-4PuU-FptEfWhKedcQJcV1DlJlkcBUd_Bve--AN5BTsws6ZPMjNeCqZfKZHxYHGqgR6dnMw7W8GkfR2gqa3PoEFNxu8uqKPuHV0xbfpeFak0OHF4215viK5PKz7xTvoGVqzdzbTBUy4cxbz0kgSsRNsWapXxEN5NWaTWXS5tXs-jGyyaayWl34GHCsRMnCZoIlMC_u4UIIWHWjmTYI_lFnSbJicDhz-EOND7FfkhIqnZlmmok6sGaMIVAYFx_-SG8JsZwlAUYY3MsyXFHsaerLOvCPcuhyOKv2R0tWQbnEuAqGA",
+      "widthPx": 1170,
+      "heightPx": 1216,
+      "authorAttributions": [
+        {
+          "displayName": "Gema Garcia",
+          "uri": "https://maps.google.com/maps/contrib/109644156441690821620",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_NvYmRxiWe8gEZvdpCcP0B76xs7GfU1KfVhE-Wv4CnSr5Dg=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBjwD3Lgzd7n72zsMpk9a6L&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBjwD3Lgzd7n72zsMpk9a6L!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMZC1uSXw2DB28PmFX0SOWC7iZ2b0MUIIOTWCtCJkF2xtg07OECGsWFxFn-SbyChpbHQ1OAVgnshnUAvdlN3bZpIH7gcqOQrjrq-XQrm1R4H_qNqYR5xSJyXv3QbP9rOPAdy-zRJ0RJ6UpoH7FQu3MtQhdpSdhwy5sA1ozSvRpEZG8n8JuTv75fq4DM95TdF8o6KiW09jg560mcpGzg0ofYIURAU0InbvLP9Qiu12o3bEguMfc2LgXKC-NY-esBMM7jnUOphNQyJhM_UmjFEgBAfPjUf2PB0-hCFaKOzVU7Pm16nmTMvYDwoniq_49vJx7HvWMkWHoNVw9O5eakR4XF06XI1lXXRA0nKn6rf-egGqHhEes6BuVXHR0McOWFxdSzB34UKleCJbLqyfZOi4-OWTFdGKg6Tn34u7hXjqgc2nQ",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "Leticia M",
+          "uri": "https://maps.google.com/maps/contrib/103505341233595277798",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaD9-PsHAQ_BNLxJe63Kvmyi-vwbu086gK8qHZiBCEi9smMTTT=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhAo7sbQWE2NfdZQubxYAOiW&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhAo7sbQWE2NfdZQubxYAOiW!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMaDgINlRZAJTZdu2xwf-M737y4SyDxy_VOsHbm02emhyIffLFq55i2rHL5f2jCNaY0WYb0p1ZJDRVTUt0188cPifR_1eJJQeBb82BcON5gaZSvZc1kBZ22-FFyZKxvsMqBGggzIdpIjiewzwhuXaEKxrwjbP6z7Nt3KL1WzGEkJVjOzw_FhKvmC63pcuQJCZS7DZHEfxU2-Uytz3XeKBB8B2SVjYucA_XSyiFvl4AYdvVTulqRgkXOhiqDIIiKZv3ZKaIegjFinfR2X2nsH8jkP5rDaHxedPY8eSDQCwU5-iru7G1-XLn2GHM9uugmO-9Ri0rTP374bwRk4QavP3KK6XAWG3f-SeIXCgMQhuwRFNqlLM1Jp2f8d9wBBl_Is__ah2QFoxTIjD4f7nFFTue-2NNAEfCma69uBwQlheqLa",
+      "widthPx": 1200,
+      "heightPx": 1600,
+      "authorAttributions": [
+        {
+          "displayName": "sara pulgar",
+          "uri": "https://maps.google.com/maps/contrib/101841173007155450290",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZPgzFOd1rkG8SVqhBxoTQyKEA6yYqVjk17AuuqXfJHF9bVxqk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhBEsI_xmqCqgSKcb1J_bb3f&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhBEsI_xmqCqgSKcb1J_bb3f!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMZIbcNRhWDsT3iFu5WHndJINCrEH8y87QVo6XQXiK_TloK62X2fXgU-RGBhTTF8iOaLgrxv5PxliGP6eOLZ_NuQlLI2d9kAiZ45xyuoKjiuTTt0voZ_i3v7edZSuv8GsUVjBdlVT1fUFOvQ9ERZuyzWQsKHiNLQpVash2qqs5icl_0CwkspCx0YNhEH1b6q5sz6WLnBSupTl0p_KT8UEv-ZFLj5HckWiQSbn9029uDmPWF6BP1Fh8zLcIcVBzto67NUujekYcATOxxNOEnOC7L9Nxks9cBeLOT_3IjEqUI2dxXhhZN7IkWxr6dOTIRQUgwzSTJ0bRJvahCkXtJhsGwOyNINbqLcJpcLC_Q-YuT_9ZPyv-rJM8gy4nbWruq66n1GaugAg2gncUbjxKwje_V6VB7hA7ClcDZw-3Q61ZC2",
+      "widthPx": 1080,
+      "heightPx": 1302,
+      "authorAttributions": [
+        {
+          "displayName": "Belen Martin",
+          "uri": "https://maps.google.com/maps/contrib/105336142001659644894",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8BK0ZgJt4zrzO7BbbITO9uMm6_ZHBU5qeHlKRrFRLAdfaEQ=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhA_KwibsabmUr5oHmhu8hK1&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhA_KwibsabmUr5oHmhu8hK1!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    },
+    {
+      "name": "places/ChIJkagu5AXzQQ0Rm6td_CSdPCo/photos/Aa-ngMZ2PF8wOGjXKnct0aQsaYBqBFpigT_HBGQ-RfLboOxU_vhzuaUbW9eZyOjXdWP0QQnwWcMxcD9lSejzLCr8k9igPN5xnArGjcP5uPX4Dbg97xshKTRDgeAVWHYtmu55z9bccd3BEsT3HmhwtCHc5Lyllnc_zeY3Duzsq16SjWiX3pBYKstCvez5EZYOpBSkrJdv3r_rrElnQIl-DrzbA4Dgu2YUh2lPHFWCX3BTSBBWgTVSEqFgWaDO2UqBiAqljOGFFrVjy5Cznz-FKORhiAO-64D6lEstufvyc2FIlv1r2QFSfm6-NzOkENKKflzLOM-OBm7S456G-03qaQv7K_AO1tAH6LebCmjLXnuS-gH80xkWv7Fk4Z-OgmhGoZGy2C4qDZ_6TJeJGVGvsjGHShEA4kTXLNoRqrNCtwEuOWWBKg",
+      "widthPx": 1536,
+      "heightPx": 2048,
+      "authorAttributions": [
+        {
+          "displayName": "sara pulgar",
+          "uri": "https://maps.google.com/maps/contrib/101841173007155450290",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZPgzFOd1rkG8SVqhBxoTQyKEA6yYqVjk17AuuqXfJHF9bVxqk=s100-p-k-no-mo"
+        }
+      ],
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=!1e10!2sCIABIhCRLVvVnIubU-AdawHuhUDD&t=27&cb_client=maps_api_places.places_api&hl=en-US",
+      "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIABIhCRLVvVnIubU-AdawHuhUDD!2e10!4m2!3m1!1s0xd41f305e42ea891:0x2a3c9d24fc5dab9b"
+    }
+  ]
+}
